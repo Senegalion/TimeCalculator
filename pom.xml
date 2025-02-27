@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>TimeCal</finalName>
+        <finalName>time_cal</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
