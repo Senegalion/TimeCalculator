@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>AikidoPracticeTracker</finalName>
+        <finalName>TimeCal</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -48,7 +48,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.Main</mainClass>
+                            <mainClass>org.example.TimeCal</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
